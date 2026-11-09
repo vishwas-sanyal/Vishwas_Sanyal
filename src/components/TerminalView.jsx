@@ -403,7 +403,7 @@ const COMMANDS = {
 const QUICK = ["help", "whoami", "skills", "projects", "contact", "exif-tool"];
 
 // Live Cloudflare Tunnel URL pointing to Termux llama-server (port 8080)
-const NOBODY_API_URL = "https://warming-managing-africa-conversion.trycloudflare.com/v1/chat/completions";
+const NOBODY_API_URL = "https://eternal-amy-curious-mountains.trycloudflare.com/v1/chat/completions";
 
 // Personal data & portfolio prompt optimized for Qwen 2.5 0.5B Instruct
 const NOBODY_SYSTEM_PROMPT = `Identity: Your name is "Nobody". You are an AI assistant created by Vishwas Sanyal.
